@@ -12,4 +12,4 @@ on building my [Freelance Agency](https://github.com/227Faddi/mtl-web-services)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=227Faddi&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serigne-falilou) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/serigne-khouma)
