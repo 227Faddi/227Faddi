@@ -1,4 +1,4 @@
-# Hi, I'm Serigne Falilou! <br/> 🧑🏿‍💻 Front-End Developer
+# Hi, I'm Falilou! <br/> 🧑🏿‍💻 Front-End Developer
 
 ## 💫 About Me:
 I am based in Montreal, Quebec and I'm currently working at [100Devs](https://100devs.org/)
