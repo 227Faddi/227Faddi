@@ -7,10 +7,11 @@ I am a Software Developer specializing in front-end development based in Montrea
 ## 💻 Tech Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 👤 My Portfolio : [Here](https://faliloukhouma.netlify.app/)
+
 ## 🕹️ Daily CodeWars :
 Solving [CodeWars](https://github.com/227Faddi/CodeWars) every day!
 
-## 👤 My Portfolio : [Here](https://faliloukhouma.netlify.app/)
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serigne-khouma)
