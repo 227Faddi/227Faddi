@@ -1,3 +1,5 @@
+![Profile Banner](https://github.com/227Faddi/227Faddi/blob/main/banner-linkedin.png)
+
 # Hi, I'm Falilou! <br/> 🧑🏿‍💻 Software Developer | Front-End
 
 ## 💫 About Me:
