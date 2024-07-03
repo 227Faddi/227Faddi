@@ -13,7 +13,6 @@ I am a Software Developer based in Montreal, Quebec. I'm currently working at [1
 ## 🕹️ Daily CodeWars :
 Solving [CodeWars](https://github.com/227Faddi/CodeWars) every day!
 
-
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serigne-khouma)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khoumaDev)
