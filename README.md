@@ -20,3 +20,5 @@ Solving [CodeWars](https://github.com/227Faddi/CodeWars) every day!
 ## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=227Faddi&theme=dark&hide_border=false)<br/>
 
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
