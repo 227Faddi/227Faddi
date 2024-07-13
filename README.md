@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/227Faddi/227Faddi/blob/main/socials-banner.png)
+![Profile Banner](https://github.com/227Faddi/227Faddi/blob/main/banner.png)
 
 # Hi, I'm Falilou! <br/> 🧑🏿‍💻 Software Developer | Front-End
 
