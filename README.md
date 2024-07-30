@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/227Faddi/227Faddi/blob/main/banner.png)
 
-# Hi, I'm Falilou! <br/> 🧑🏿‍💻 Software Developer | Front-End
+# Hi, I'm Falilou! <br/> 🧑🏿‍💻 Full-Stack Software Developer
 
 ## 💫 About Me:
 I am a Software Developer based in Montreal, Quebec. I'm currently working at [100Devs](https://100devs.org/) as a Front-End Developer
