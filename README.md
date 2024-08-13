@@ -1,6 +1,6 @@
 ![Profile Banner](https://github.com/227Faddi/227Faddi/blob/main/banner.png)
 
-# Hi, I'm Falilou! <br/> 🧑🏿‍💻 Full-Stack Software Developer
+# Hi, I'm Falilou! <br/> 🧑🏿‍💻 Full Stack Software Developer
 
 ## 💫 About Me:
 I'm Falilou Khouma, a Full-Stack Software Developer based in Montreal. I create practical solutions to modern problems through software development, specializing in dynamic, user-friendly applications using technologies like HTML, CSS, Bootstrap, JavaScript, Node.js, Express, and MongoDB.
