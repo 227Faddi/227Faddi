@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/227Faddi/227Faddi/refs/heads/main/banner-.png)
+![Profile Banner](https://raw.githubusercontent.com/227Faddi/227Faddi/refs/heads/main/bannerr.png)
 
 # Hi, I'm Falilou! <br/> 🧑🏿‍💻 Full Stack Software Developer
 
