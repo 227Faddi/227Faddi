@@ -9,7 +9,8 @@ Full Stack Software Developer based in Montreal. Specialized in web development,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faliloukhouma/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khoumaDev)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/intent/follow?screen_name=asyncfaddi
+)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=227Faddi&theme=dark&hide_border=false)<br/>
